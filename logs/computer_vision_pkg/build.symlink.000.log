@@ -1,0 +1,4 @@
+Symlinking /home/puxple/catkin_ws/devel/share/computer_vision_pkg/cmake/computer_vision_pkgConfig-version.cmake
+Symlinking /home/puxple/catkin_ws/devel/share/computer_vision_pkg/cmake/computer_vision_pkgConfig.cmake
+Symlinking /home/puxple/catkin_ws/devel/lib/pkgconfig/computer_vision_pkg.pc
+Symlinking /home/puxple/catkin_ws/devel/lib/computer_vision_pkg/motor_controller

@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target motor_controller[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/motor_controller.dir/src/motor_controller.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/puxple/catkin_ws/devel/.private/computer_vision_pkg/lib/computer_vision_pkg/motor_controller[0m
+[100%] Built target motor_controller

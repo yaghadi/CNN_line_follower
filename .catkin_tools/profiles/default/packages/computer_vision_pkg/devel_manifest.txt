@@ -1,0 +1,6 @@
+Computer-Vision-Tutorial
+/home/puxple/catkin_ws/devel/.private/computer_vision_pkg/cmake.lock /home/puxple/catkin_ws/devel/./cmake.lock
+/home/puxple/catkin_ws/devel/.private/computer_vision_pkg/share/computer_vision_pkg/cmake/computer_vision_pkgConfig-version.cmake /home/puxple/catkin_ws/devel/share/computer_vision_pkg/cmake/computer_vision_pkgConfig-version.cmake
+/home/puxple/catkin_ws/devel/.private/computer_vision_pkg/share/computer_vision_pkg/cmake/computer_vision_pkgConfig.cmake /home/puxple/catkin_ws/devel/share/computer_vision_pkg/cmake/computer_vision_pkgConfig.cmake
+/home/puxple/catkin_ws/devel/.private/computer_vision_pkg/lib/pkgconfig/computer_vision_pkg.pc /home/puxple/catkin_ws/devel/lib/pkgconfig/computer_vision_pkg.pc
+/home/puxple/catkin_ws/devel/.private/computer_vision_pkg/lib/computer_vision_pkg/motor_controller /home/puxple/catkin_ws/devel/lib/computer_vision_pkg/motor_controller
